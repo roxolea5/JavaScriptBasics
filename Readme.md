@@ -1,3 +1,5 @@
+#Este repositorio está basado en los contenidos del módulo 2 de BEDU
+
 
 ## Módulo: Programación con JavaScript
 
